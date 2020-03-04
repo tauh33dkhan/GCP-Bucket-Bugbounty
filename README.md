@@ -1,4 +1,4 @@
-### Google Cloud Storage Bugbounty
+# Google Cloud Storage Bugbounty
 
 
 Tool to enumerate Google Storage Buckets and permissions: https://github.com/RhinoSecurityLabs/GCPBucketBrute
